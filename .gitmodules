@@ -1,3 +1,6 @@
 [submodule "database"]
 	path = database
 	url = https://github.com/K-Team-Coders/bfs-registry-database
+[submodule "parser"]
+	path = parser
+	url = https://github.com/K-Team-Coders/bfs-registry-parser
